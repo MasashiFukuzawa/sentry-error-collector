@@ -1,5 +1,5 @@
 {
-  "name": "sentry-error-collector",
+  "name": "sentry-issue-collector",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
